@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "path_integral"
+version = "0.1.0"
+description = ""
+authors = ["MizuhoAOKI <mizuhoaoki1998@gmail.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.2"
+matplotlib = "^3.8.2"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.28.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
