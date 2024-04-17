@@ -10,6 +10,11 @@ packages = []
 python = "^3.10"
 numpy = "^1.26.2"
 matplotlib = "^3.8.2"
+tqdm = "^4.66.2"
+numba = "^0.59.1"
+numba-progress = "^1.1.0"
+ipywidgets = "^8.1.2"
+jupyter = "^1.0.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.28.0"
