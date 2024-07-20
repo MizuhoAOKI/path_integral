@@ -32,8 +32,8 @@
 
 ## Setup
 ```sh
-git clone https://github.com/MizuhoAOKI/python_simple_mppi.git
-cd python_simple_mppi
+git clone https://github.com/MizuhoAOKI/path_integral.git
+cd path_integral
 poetry install
 ```
 
